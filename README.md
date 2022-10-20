@@ -24,20 +24,3 @@
 <img alt="效果图" src="screenshot.png">
 <p align="center">屏亮小灯</p>
 </p>
-
-## 捐助
-
-**<p align="center">您的每一份支持都将是本项目推进的强大动力，十分感谢您的支持</p>**
-
-<p align="center">
-
-<img alt="支付宝" src="WingHexExplorer/支付宝捐助.jpg" height=50% width=50%>
-<p align="center">感谢支持</p>
-
-</p>
-
-<p align="center">
-<img alt="微信" src="WingHexExplorer/微信捐助.png" height=50% width=50%>
-<p align="center">感谢支持</p>
-
-</p>
