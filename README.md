@@ -1,7 +1,7 @@
 <h1 align="center"> WingSummer.ScreenLighter</h1>
 
 <p align="center">
-<img alt="ScreenLighter" src="images/logo.png">
+<img alt="ScreenLighter" src="images/logo.svg">
 <p align="center">屏亮小灯</p>
 </p>
 
